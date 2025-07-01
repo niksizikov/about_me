@@ -4,4 +4,4 @@
 
 [![codewars](https://www.codewars.com/users/niksizikov/badges/large)](https://www.codewars.com/users/niksizikov)   
 
-![Leetcode Stats](https://leetcard.niksizikov/Nick_Sizikov)
+![Leetcode Stats](https://leetcard.niksizikov/NickSizikov)
